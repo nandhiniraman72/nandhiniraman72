@@ -66,9 +66,9 @@ Developed a financial expense analysis project to understand spending patterns a
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandhiniraman720&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandhiniraman72&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandhiniraman720&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandhiniraman72&layout=compact&theme=tokyonight)
 
 ---
 
