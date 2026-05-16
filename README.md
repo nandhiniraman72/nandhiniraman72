@@ -58,7 +58,7 @@ Developed a financial expense analysis project to understand spending patterns a
 
 ## Connect With Me
 
-- LinkedIn: linkedin.com/in/nandhini-raman-42781a3a5
+- LinkedIn: [linkedin.com/in/nandhini-raman-42781a3a5](https://github.com/nandhiniraman72)
 - GitHub: github.com/nandhiniraman72
 - Email: nandhiniraman720@gmail.com
 
