@@ -3,7 +3,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 - 📊 Passionate about Data Analytics and Machine Learning
 - 🐍 Skilled in Python, SQL, Power BI, Tableau, and Excel
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Technical Skills
+## Technical Skills
 
 ### Programming Languages
 - Python
@@ -43,20 +43,20 @@
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 🚖 Uber Ride Data Analysis
+### Uber Ride Data Analysis
 Analyzed Uber ride booking data to identify ride demand trends, customer behavior, and peak booking hours using Python and data visualization.
 
-### 🎓 Student Performance Prediction
+### Student Performance Prediction
 Built a Machine Learning model to predict student academic performance using Python and Scikit-learn.
 
-### 💰 Google Expense Sharing Analysis
+### Google Expense Sharing Analysis
 Developed a financial expense analysis project to understand spending patterns and contribution analysis.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - LinkedIn: linkedin.com/in/nandhini-raman-42781a3a5
 - GitHub: github.com/nandhiniraman72
@@ -64,7 +64,7 @@ Developed a financial expense analysis project to understand spending patterns a
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=nandhiniraman72&show_icons=true&theme=tokyonight&hide_border=true)
 
